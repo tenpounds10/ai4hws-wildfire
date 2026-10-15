@@ -33,6 +33,7 @@ project/src/open-metro_cache.json
 explore_correlation_summer.ipynb
 explore_correlation_winter.ipynb
 data_preprocessing.ipynb
+project/notebook/data_ppc_plotting.ipynb
 make_report.py
 plot_shap.ipynb
 project/preview.ipynb
