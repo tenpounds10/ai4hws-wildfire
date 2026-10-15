@@ -1,0 +1,27 @@
+ .gitignore                                         |   25 [32m+[m
+ README.md                                          |    0
+ project/data_description.md                        |   15 [32m+[m
+ project/data_ppc_plotting.ipynb                    | 1991 [32m++++++++[m
+ project/data_preprocessing.ipynb                   | 3513 [32m+++++++++++++[m
+ project/intermediate_data/cal_fires_all.png        |  Bin [31m0[m -> [32m2106821[m bytes
+ project/intermediate_data/cal_fires_all_red.png    |  Bin [31m0[m -> [32m2104682[m bytes
+ .../california_wildfires_2015_2024_map.png         |  Bin [31m0[m -> [32m1371959[m bytes
+ ...california_wildfires_2015_2024_seasonal_map.png |  Bin [31m0[m -> [32m1364212[m bytes
+ .../california_wildfires_by_month.png              |  Bin [31m0[m -> [32m129935[m bytes
+ project/intermediate_data/cimis_cache.json         |    1 [32m+[m
+ project/intermediate_data/open-metro_cache.json    |    1 [32m+[m
+ .../pearson_correlation_matrix.png                 |  Bin [31m0[m -> [32m255068[m bytes
+ .../pearson_correlation_matrix_sum.png             |  Bin [31m0[m -> [32m265196[m bytes
+ .../pearson_correlation_matrix_win.png             |  Bin [31m0[m -> [32m262039[m bytes
+ project/intermediate_data/spending_7-9_point.dbf   |  Bin [31m0[m -> [32m387[m bytes
+ project/intermediate_data/spending_7-9_point.prj   |    1 [32m+[m
+ project/intermediate_data/spending_7-9_point.shp   |  Bin [31m0[m -> [32m2838260[m bytes
+ project/intermediate_data/spending_7-9_point.shx   |  Bin [31m0[m -> [32m108[m bytes
+ project/intermediate_data/spending_7-9_point.zip   |  Bin [31m0[m -> [32m2015993[m bytes
+ project/moran_bar_chart.png                        |  Bin [31m0[m -> [32m41127[m bytes
+ project/preview.ipynb                              |  657 [32m+++[m
+ project/untitled.md                                |   19 [32m+[m
+ pyproject.toml                                     |   52 [32m+[m
+ src/ai4hws_project/__init__.py                     |    2 [32m+[m
+ uv.lock                                            | 5162 [32m++++++++++++++++++++[m
+ 26 files changed, 11439 insertions(+)

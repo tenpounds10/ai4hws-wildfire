@@ -1,0 +1,48 @@
+1# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Data
+data/
+*.csv
+*.tif
+*.nc
+
+# # Model outputs
+models/
+results/
+reports/
+# *.pkl
+# *.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+14_session/
+
+project/intermediate_data/
+
+open_metro_cache.json
+
+
+explore_correlation_summer.ipynb
+explore_correlation_winter.ipynb
+data_preprocessing.ipynb
+make_report.py
+plot_shap.ipynb
+project/preview.ipynb
+
+ndvi_processor.ipynb
+
+
+project/moran_bar_chart.png
+summer_spearman.png
+winter_spearman.png
+
+project/untitled.md
+project/data_description.md
