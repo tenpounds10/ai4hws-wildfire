@@ -27,7 +27,7 @@ reports/
 
 project/intermediate_data/
 
-open_metro_cache.json
+project/src/open-metro_cache.json
 
 
 explore_correlation_summer.ipynb
@@ -46,3 +46,5 @@ winter_spearman.png
 
 project/untitled.md
 project/data_description.md
+
+tatus --short
